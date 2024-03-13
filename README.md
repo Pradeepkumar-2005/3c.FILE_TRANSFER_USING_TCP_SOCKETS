@@ -66,7 +66,7 @@ def start_client():
 start_client()
 
 ```
-## OUPUT
+## OUTPUT
 # SERVER
 ![Screenshot 2024-03-13 152949](https://github.com/Pradeepkumar-2005/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/147474038/93249c8c-0568-4fed-ba04-36dcd8d374fe)
 
